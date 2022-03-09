@@ -1,0 +1,6 @@
+a=input("请示入你的QQ号")
+print(a)
+name=input("请输入QQ号为"+str(a)+"的姓名")
+print(name)
+x,c,v=input('以空格隔开').split()
+print(x,c,v)
